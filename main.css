@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box;
+}
+header, article, form {
+	text-align: center;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+.pageStructure, .finalPage {
+  display: none;
+  text-align: center;
+}
+
+.js-nextButton {
+	display: block;
+	margin: 0 auto;
+}
